@@ -14,7 +14,6 @@
 Normalizing words by condensing all forms of a word into a single form
 Vectorizing text by turning the text into a numerical representation for consumption by your classifier
 
-
-
-
+#### Adding packages to requirements.txt
+    pip freeze > requirements.txt
 
