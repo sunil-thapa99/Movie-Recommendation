@@ -1,0 +1,9 @@
+{
+  "architecture":"simple_cnn",
+  "labels":[
+    "pos",
+    "neg"
+  ],
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}

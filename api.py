@@ -6,6 +6,7 @@ app = Flask(__name__)
 @app.route("/test", methods=["POST"])
 def test():
     input_data = request.form['review']
+    print(input_data)
     loaded_model = spacy.load("model_artifacts")
     parsed_text = loaded_model(input_data) # Generate prediction
     if parsed_text.cats["pos"] > parsed_text.cats["neg"]:
