@@ -25,3 +25,9 @@ Vectorizing text by turning the text into a numerical representation for consump
     pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
     
     pip install pyresparser
+
+### Final Dataset
+    path: dataset > final_movie_list_data.csv
+    Contains:
+    | Director Name  | Actors       | Movie Title  | Genre          | Vote         | Average Vote |
+    | :------------- | :----------: | -----------: | :------------- | :----------: | -----------: |
