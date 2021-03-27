@@ -29,7 +29,4 @@ Vectorizing text by turning the text into a numerical representation for consump
 ### Final Dataset
     path: dataset > final_movie_list_data.csv
     Contains:
-    | Tables        | Are           | Cool  |
-    | ------------- |:-------------:| -----:|
-    | Director Name  | Actors       | Movie Title  | Genre          | Vote         | Average Vote |
-    | :------------- | :----------: | -----------: | :------------- | :----------: | -----------: |
+        Director Name, Actors, Movie Title, Genre, Vote, Average Vote
