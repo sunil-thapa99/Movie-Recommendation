@@ -30,3 +30,7 @@ Vectorizing text by turning the text into a numerical representation for consump
     path: dataset > final_movie_list_data.csv
     Contains:
         Director Name, Actors, Movie Title, Genre, Vote, Average Vote
+
+### Install Faiss
+	- sudo apt-get install libopenblas-dev
+	- sudo apt-get install libomp-dev
