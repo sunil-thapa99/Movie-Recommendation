@@ -37,6 +37,6 @@ Vectorizing text by turning the text into a numerical representation for consump
 
 ### Run ipynb file into google colab
 
-[![Open In Colab - Movie Data Preprocessing](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lappanchappan43/Movie-Recommendation/blob/main/Movie%20Data%20Preprocessing.ipynb)
+Movie Data Preprocessing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lappanchappan43/Movie-Recommendation/blob/main/Movie%20Data%20Preprocessing.ipynb)
 
-[![Open In Colab - Movie Recommendation using FAISS](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lappanchappan43/Movie-Recommendation/blob/main/Movie%20Recommendation%20Content%20Based%20Using%20FAISS.ipynb)
+Movie Recommendation using FAISS: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lappanchappan43/Movie-Recommendation/blob/main/Movie%20Recommendation%20Content%20Based%20Using%20FAISS.ipynb)
